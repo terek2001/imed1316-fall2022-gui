@@ -1,1 +1,1 @@
-# imed1316-fall2022-gui
+This is my README file via the GUI
